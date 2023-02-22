@@ -1,0 +1,23 @@
+<?php
+$s_menu_Seven_link = 'Send SMS';
+$s_plugin_Seven_message = 'Dear ';
+$s_plugin_Seven_message2 = '. If you have any questions, please do not hesitate to contact us.';
+$s_plugin_Seven_description = 'Send SMS to customers';
+$s_plugin_Seven_issue = 'Issue created with ID #';
+$s_plugin_Seven_attend_by = 'handled by ';
+$s_plugin_Seven_project = '';
+$s_plugin_Seven_configuration = 'Seven Plugin Configuration';
+$s_plugin_Seven_access_level = 'Access Level for Sending SMS';
+$s_plugin_Seven_access_level_description = 'Restrict SMS dispatch to users of a particular group.';
+$s_plugin_Seven_api_key = 'Your seven API key';
+$s_plugin_Seven_api_key_description = 'Visit the <a href="https://help.seven.io/en/api-key-access">helpdesk</a> for further information.';
+$s_plugin_Seven_information = '<strong>IMPORTANT:</strong> Remember to put the project leaders number in the project description with country code, otherwise he/she will not be able to send SMS to the project supervisor.';
+$s_plugin_Seven_custom_field_id = 'Custom Field with Phone Number';
+$s_plugin_Seven_custom_field_id_description = 'Select the custom field holding the cellphone number.';
+$s_plugin_Seven_priority = 'Project Phone Number Priority';
+$s_plugin_Seven_priority_description = 'Check this box if you are going to give priority to the phone listed in the project description.';
+$s_plugin_Seven_sms_bugnote_sent = 'SMS sent to number ';
+$s_plugin_Seven_to = 'Recipient(s)';
+$s_plugin_Seven_to_description = 'Multiple recipients can be separated by comma.';
+$s_plugin_Seven_text = 'Text';
+$s_plugin_Seven_text_description = 'The SMS content. May not exceed 1520 characters.';
