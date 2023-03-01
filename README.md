@@ -30,7 +30,7 @@ Go to an issue and click on `Send SMS`.
 If option `Project Phone Number Priority` is checked and the project description is a numeric value,
 its value gets used.
 If not, the plugin assumes that the `Custom Field with Phone Number` option has been set.
-You can always the recipient(s) manually in the SMS form.
+You can always set the recipient(s) manually in the SMS form.
 
 ## Support
 
